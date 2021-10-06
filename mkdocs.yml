@@ -1,71 +1,64 @@
-site_name: Knowledge Hub
-site_description: Fab Lab Barcelona Knowledge Hub
-site_author: Fab Lab Team
-site_url: https://fablabbcn.github.io/mdef-template
-repo_name: knowledge
-repo_url: https://github.com/fablabbcn/knowledge
+# Replace the text below to customize your site
+site_name: Nombre estudiante - UTEC & Fab Lab Barcelona
+site_description: Especialización en Fabricación Digital e Innovación
+site_author: Nombre estudiante
+copyright: Copyright 2021 "Nombre" - Creative Commons Attribution Non Commercial
 
-
-theme:
-  name: 'material'
-  features:
-    - instant
-    - navigation.expand
-    - navigation.tabs
-    - tabs
-  custom_dir: 'custom_theme'
-  palette:
-    primary: 'black'
-    accent: 'green'
-  logo: 'assets/logo.svg'
-  favicon: 'assets/favicon.svg'
-  feature:
-    tabs: true
-  icon:
-    repo: fontawesome/brands/git-alt
+repo_name: 'Name : GitLab Repo'
+site_url: https://fablabbcn.github.io/mdef-template/
+repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: 'https://twitter.com/fablabbcn'
+    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/
     - icon: fontawesome/brands/instagram
-      link: 'https://www.instagram.com/fablabbcn/'
+      link: https://instagram.com/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/
+    - icon: fontawesome/brands/linkedin
+      link: "https://www.linkedin.com/in/"
     - icon: fontawesome/brands/github
-      link: 'https://www.instagram.com/fablabbcn/'
-  project: 'Fab Lab Barcelona is an innovation centre rethinking the way we live, work and play in cities. This is our open knowledge repository'
-  license: 'CC Attribution-NonCommercial-ShareAlike 4.0 International'
+      link: "https://github.com/"
+
+
+
+theme:
+  name: material
+  palette:
+    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
+    primary: white
+    accent: purple
+  font:
+    # See available fonts at https://fonts.google.com/
+    text: Be Vietnam
+    code: Cutive Mono
+  icon:
+    logo: material/memory
+  favicon: images/favicon.svg
+  features:
+    - navigation.tabs
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
 
 markdown_extensions:
+  - extra
+  - smarty
   - admonition
-  - codehilite
-  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - codehilite:
+      guess_lang: false
   - toc:
       permalink: true
-  - pymdownx.arithmatex
-  - pymdownx.betterem:
-      smart_enable: all
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.highlight
-  - pymdownx.snippets:
-      base_path: 'docs'
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-  - pymdownx.tilde
-  - attr_list
 
-# plugins:
-#   - tags
-      # tags_template: docs/theme/tags.md.template
-
-extra_javascript:
-  - 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-MML-AM_CHTML'
-  - 'https://buttons.github.io/buttons.js'
+extra_css:
+  - stylesheets/extra.css
+  - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css

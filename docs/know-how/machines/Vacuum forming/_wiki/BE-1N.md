@@ -1,2 +1,0 @@
-![](/assets/images/http:/www.salvadorescoda.com/tecnico/Ma/tec%20HF06105-106-126_Instruc-BombaVacio-BE1-2.pdf
-"File:http://www.salvadorescoda.com/tecnico/Ma/tec%20HF06105-106-126_Instruc-BombaVacio-BE1-2.pdf")
