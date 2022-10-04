@@ -8,13 +8,13 @@ site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
-nav:
-  - Main:
-      - Welcome: index.md
-  - Modulo 1:
-      - Intro Fablabs: project/project.md
-  - Modulo 2:
-      - Intro Fab City: seminars/01-Bootcamp.md
+#nav:
+#  - Main:
+#      - Welcome: index.md
+#  - Master project:
+#      - Intro Fablabs: project/project.md
+#  - Seminarios:
+#      - Intro Fab City: seminars/01-Bootcamp.md
 
 
 
@@ -76,6 +76,33 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
+  - md_in_html
+  - admonition
+  - codehilite
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      base_path: 'docs'
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - attr_list
+  - pymdownx.tabbed
 
 extra_css:
   - stylesheets/extra.css
