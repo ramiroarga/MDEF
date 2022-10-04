@@ -7,6 +7,18 @@ repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
+
+nav:
+  - Main:
+      - Welcome: index.md
+  - Modulo 1:
+      - Intro Fablabs: project/project.md
+  - Modulo 2:
+      - Intro Fab City: seminars/01-Bootcamp.md
+
+
+
+
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
