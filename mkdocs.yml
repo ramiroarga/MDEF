@@ -8,13 +8,19 @@ site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
 
 
-#nav:
-#  - Main:
-#      - Welcome: index.md
-#  - Master project:
-#      - Intro Fablabs: project/project.md
-#  - Seminarios:
-#      - Intro Fab City: seminars/01-Bootcamp.md
+nav:
+  - Home: index.md
+  - About: about/me.md
+  - Master project:
+      - Initial ideas: project/project.md
+  - Reflections :
+      - Term 1:
+          - Bootcamp: term1/01-Bootcamp.md
+          - AoWS: term1/02-Atlas of Weak Signals.md
+
+      - Term 2:
+          - digi: term1/01-Bootcamp.md
+          - studio: term1/01-Bootcamp.md
 
 
 
