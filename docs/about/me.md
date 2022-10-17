@@ -1,6 +1,6 @@
 # About
 
-![](../images/foto.jpg)
+![](images/foto.jpg)
 
 
 
