@@ -1,6 +1,6 @@
 # Hi! ;)
 
-![](images/foto.jpg)
+![me](../images/foto.jpg)
 
 
 
