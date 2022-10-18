@@ -23,4 +23,4 @@ Finally, another area of interest is the mobility of people, understanding this 
 RAMIRO
 
 
-![](images/MT01/AOWS Design Space.png)
+![](../images/MT01/AOWS Design Space.png)
