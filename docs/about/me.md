@@ -1,6 +1,6 @@
 # Hi! ;)
 
-![](images/foto.jpg)
+![](..images/foto.jpg)
 
 
 
