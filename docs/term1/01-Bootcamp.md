@@ -15,6 +15,8 @@ Other interesting fields where I would be excited to intervene are: food educati
 
 *"To achieve change it is necessary to unlock people's imaginations and apply it to all areas of life at a microscale. Our work is meaningless unless it ignites imaginations and provokes debate: design by mutation is intrinsically collective. Designers produce mutations, some of which will grow, evolve, and develop into tangible artefacts that cause global change -- driven to realization by the energy of the crowd."*
 
+![cb](../images/collaboration.jpg)
+
 
 *Personal Development Plan*
 

@@ -1,5 +1,5 @@
 ## Welcome ;)
 
-![](images/perezoso.jpg)
+![](images
 
-Hello! thanks for visiting!
+Thanks for visiting! :rocket: 🚀
