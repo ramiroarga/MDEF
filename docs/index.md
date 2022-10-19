@@ -1,5 +1,5 @@
 ## Welcome ;)
 
-![](images
 
-Thanks for visiting! :rocket: 🚀
+
+Thanks for visiting! 🚀
