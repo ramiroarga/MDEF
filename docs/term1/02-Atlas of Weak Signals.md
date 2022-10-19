@@ -20,7 +20,7 @@ I also highlighted the long-termism card as important, because it seems to me a 
  
 Finally, another area of interest is the mobility of people, understanding this as the means of transportation used and how they seriously impact the planet. That is why I chose the card of: Conscious Mobility, which in turn is related to technology and society.
  
-RAMIRO
+*RAMIRO*
 
 
 ![](../images/AOWS Design Space.png)
