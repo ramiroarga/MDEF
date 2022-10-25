@@ -12,7 +12,7 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Design Studio:
-      - Prototyping: designstudio/Prototyping.md
+      - Prototyping: Design Studio/Prototyping.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
