@@ -11,8 +11,8 @@ repo_url: 'https://github.com/ramiroarga/MDEF'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
+  - Design Studio:
+      - Prototyping: designstudio/Prototyping.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
