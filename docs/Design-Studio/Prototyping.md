@@ -3,9 +3,9 @@ hide:
     - toc
 ---
 
-# Initial ideas
+# Initial weeks
 
-The role of prototyping in design
+**The role of prototyping in design**
 
 Some of my experience in Roles of Prototyping:
 
