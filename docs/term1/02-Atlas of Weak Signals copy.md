@@ -25,4 +25,6 @@ Finally, another area of interest is the mobility of people, understanding this 
 
 ![](../images/AOWS Design Space.png)
 
-[My Design Space](https://miro.com/app/board/uXjVPOijHeE=/)
+[My Design Space]
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOijHeE=/?moveToViewport=-1073,-1186,2044,1442&embedId=42014386884" frameborder="0" scrolling="no" allowfullscreen></iframe>
