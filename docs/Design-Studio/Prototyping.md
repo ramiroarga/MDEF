@@ -17,9 +17,6 @@ I have used this role in order to test specific characteristics of the product t
 
 https://www.behance.net/gallery/83116577/Aislador-para-Cableados-de-Alta-Tension
 
-<blockquote class="embedly-card"><h4><a href="https://www.behance.net/gallery/83116577/Aislador-para-Cableados-de-Alta-Tension">Aislador para Cableados de Alta Tensión</a></h4><p>Se realizaron pruebas mecánicas, eléctricas y de situaciones climáticas, donde se pudieron detectar ciertas falencias en el diseño, por lo que surgieron modificaciones. Se sobre dimensionó la base cilíndrica donde el aislador ajustaba a la estructura. Se agrego una aleta para evitar la acumulación de agua en ciertos lugares afectados por lluvias.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
-
 
 *TIP: Robot social para personas mayores (Therapy for isolated people):*
 
