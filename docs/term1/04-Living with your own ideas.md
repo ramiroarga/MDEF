@@ -10,7 +10,9 @@ Personal day-intervention Reflexion
 For my personal day-intervention I decided to register all what I do in 24hs and detailed how much food/liquid I consumed. In order to understand my normal consumption for a day and try to identify some unnecessary consumptions in terms of food, electricity and water, and detect possible bad habits or commodities i usually have but don't recognize. As an intervention I decided to change some food-waste habits, by eating them or giving a useful meaning rather than throwing them to the garbage (cause I dont have compost yet). So by reading and investigating fruit or vegetable peels, I understood that they contain many nutrients and important energy to our body. It's ironic to discard something that has been growing and making a large journey to arrive at our tables. 
 
 I also found this calculators to know a bit more the effects of our food consumption: 
+
 - https://www.bbc.com/mundo/noticias-46559942
+
 - http://slaveryfootprint.org/my-footprint#results
 
 By involving myself, I could notice many activities and daily consumption of things I have but I never take care, and I think that starting with myself is the way to design for the world. And being an instrument I could understand many habits we as humanity have because of educational reasons, innocence or other. For example, from my childhood I was taught to eat kiwis with a spoon and discard the peel, and for this day I bought kiwis and the packaging promoted you to eat it in the same way. So I decided to eat it and read about it and found that the peel is so important, “Kiwi skins contain a high concentration of nutrients, especially fiber, folate and vitamin E. Eating the skin of a kiwi can increase its fiber content by 50%, boost folate by 32% and raise vitamin E concentration by 34%, compared to eating the flesh alone”.
@@ -25,4 +27,3 @@ While giving a second use to my “food-wastes”, I noticed these activities (s
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRMsHCdCw&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRMsHCdCw&#x2F;watch?utm_content=DAFRMsHCdCw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener"
