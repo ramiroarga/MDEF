@@ -14,4 +14,11 @@ By involving myself, I could notice many activities and daily consumption of thi
 While giving a second use to my “food-wastes”, I noticed these activities (such as using a banana peel to clean my plants) require time I wasn't used to, and it helped me to spend dead time usually with my phone or social networks. But I enjoyed doing these activities, because they gave me good energy and the satisfaction of doing something relevant for the world, even if it is something too minimal, it's a way of changing who we are and who we want to be in the future. This changed some points of view and food habits that I started to practice in my daily life. I feel that the other videos are incredible and inspire me new possibilities of collaboration in terms of waste creation and also to understand other human habits and ways of positively changing them for a resilient world.
 
 
-
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRMsHCdCw&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFRMsHCdCw&#x2F;watch?utm_content=DAFRMsHCdCw&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Design</a> by rami.arganaraz
