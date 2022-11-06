@@ -9,7 +9,7 @@ Personal day-intervention Reflexion
 
 For my personal day-intervention I decided to register all what I do in 24hs and detailed how much food/liquid I consumed. In order to understand my normal consumption for a day and try to identify some unnecessary consumptions in terms of food, electricity and water, and detect possible bad habits or commodities i usually have but don't recognize. As an intervention I decided to change some food-waste habits, by eating them or giving a useful meaning rather than throwing them to the garbage (cause I dont have compost yet). So by reading and investigating fruit or vegetable peels, I understood that they contain many nutrients and important energy to our body. It's ironic to discard something that has been growing and making a large journey to arrive at our tables. 
 
-I also found this calculators to know a bit more the effects of our food consumption: 
+I also found this calculators to know a bit more the effects of our food and hole consumption: 
 
 - https://www.bbc.com/mundo/noticias-46559942
 
