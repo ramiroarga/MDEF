@@ -46,6 +46,7 @@ theme:
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
     accent: yellow
+    primary: white
   font:
     # See available fonts at https://fonts.google.com/
     text: Be Vietnam
