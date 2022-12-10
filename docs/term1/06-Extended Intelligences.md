@@ -17,5 +17,5 @@ For more info about the project, please check out this presentation ;)
     src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?utm_content=DAFUE_cADDY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
 
