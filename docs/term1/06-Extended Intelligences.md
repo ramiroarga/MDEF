@@ -19,6 +19,3 @@ For more info about the project, please check out this presentation ;)
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFUE_cADDY&#x2F;view?utm_content=DAFUE_cADDY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
 
-
-<blockquote class="embedly-card"><h4><a href="https://drive.google.com/drive/folders/1hSGxzbOoXMF8lfB1_jN_CL4kFg4pqvyX">Google Drive: Sign-in</a></h4><p>Access Google Drive with a Google account (for personal use) or Google Workspace account (for business use).</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
