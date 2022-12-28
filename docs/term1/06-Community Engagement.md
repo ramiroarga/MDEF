@@ -14,9 +14,15 @@ It is important to understand that as human beings we must unlearn and re-learn 
 Talking about communities is not only about human beings, but also about the other living communities that share the space we inhabit, understanding this as a hole complex system. The human-non-human connection is essential for our habitat and we must learn to live in collaboration with the other species that share our habitat.
 This is extremely important to me, and led me to continue researching the topic, trying to learn more about interspecies collaboration, through several sources, including the book: "Mutual Aid: The other law of the jungle".
 
-Creative Community Engagement
+Group work card decks
+![](../images/improvise.jpeg)
 
-In process...
+
+We were given these cards and we should choose the best for us and then explain why. I chose the card "Improvise" because is something I want to improve and practice in my life, this doesnt means I dont improvise, I do! But i feel its like a reminder for never forget it, because improvising most of the times give the best results. Always planning too much and have fear of trying makes things difficult and dont give the chance of creating, failing and achieving the results we want. I feel like a person that plans things sometimes so much that makes the process so heavy and slow. So I would like to have in mind the art of improvising even more!
+
+
+
+
 
 
 
