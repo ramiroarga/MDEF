@@ -21,8 +21,15 @@ Group work card decks
 We were given these cards and we should choose the best for us and then explain why. I chose the card "Improvise" because is something I want to improve and practice in my life, this doesnt means I dont improvise, I do! But i feel its like a reminder for never forget it, because improvising most of the times give the best results. Always planning too much and have fear of trying makes things difficult and dont give the chance of creating, failing and achieving the results we want. I feel like a person that plans things sometimes so much that makes the process so heavy and slow. So I would like to have in mind the art of improvising even more!
 
 
+Creativity Community Engagement
 
+Nest City Lab - APOC APOC Session
 
+![](../images/nest%20citylab%20(1).jpeg)
+
+![](../images/nest%20citylab%20(2).jpeg)
+
+![](../images/nest%20citylab%20(3).jpeg)
 
 
 
