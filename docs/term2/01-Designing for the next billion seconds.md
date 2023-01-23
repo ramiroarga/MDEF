@@ -3,12 +3,12 @@ hide:
     - toc
 ---
 
-# Bootcamp
+# Designing for the next billion seconds
 
 
 Reflection
 
-*Let´s be water* was the first thing that I comes to my mind when reflecting on this seminar. I found Andres to be an incredible tutor to start the year thinking about the future of humanity and nature, understanding our behaviors and our relationship with technology.
+*Let´s be water* was the first thing that I comes to my mind when reflecting on this seminar. I found Andres to be an incredible tutor to start the year flowing as water and thinking about the future of humanity and nature, understanding our behaviors and our relationship with technology. 
 
 In my opinion it was one of the best seminars, because of the teaching methods and the topics covered. It was also directly related to the topics I have been exploring, among others, collaboration, system changes and economies of reciprocity and generosity. As a reflection from it, these were my 3 takeaways:
 
