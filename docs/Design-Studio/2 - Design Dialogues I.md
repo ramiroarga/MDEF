@@ -51,17 +51,17 @@ We call to action! We decided to take advantage of the connection we have with s
 ![](../images/nest%20citylab%20(1).jpeg)![](../images/nest%20citylab%20(2).jpeg)
 ![](../images/nest%20citylab%20(3).jpeg)
 
-Among the results obtained, one of the most interesting points was to understand the privileged situation we have and to be able to think about regeneration, connection with nature and wellbeing. We both come from Latin American countries, where the predominant issues are poverty, inequality and its consequences, where people has no time, education or money to think about regenerative behaviors and resilience is every day a bit far away. It is hard and dissapointing to say but it is the reality of many countries and humans in the world. Therefore, from our shoes we feel that we can contribute our seed to begin to turn this situation around and believe in a resilient future by improving access to regenerative education.
+Among the results obtained, one of the most interesting points was to understand the privileged situation we have and to be able to think about regeneration, connection with nature and wellbeing. We both come from Latin American countries, where the predominant issues are poverty, inequality and its consequences, where people have no time, education or money to think about regenerative behaviors and resilience is every day a bit far away. It is hard and disappointing to say but it is the reality of many countries and humans in the world. Therefore, from our shoes we feel that we can contribute our seed to begin to turn this situation around and believe in a resilient future by improving access to regenerative education.
 
 For the Design Dialogues, we decided to create another stage of intervention. We detected 20 determinants that for us were the most important for humanity to engage with regenerative behavior. These were divided into 4 different groups: Spiritual, Context/System, Privilege and Mental health. So we created a board with a big circle with all the determinants and people should connect with color thread the ones they think are the most important for humanity to engage with regenerative behavior. The objective of this intervention was to understand people's thoughts towards regenerative behavior and learn other important determinants that we were not contemplating. 
 
 ![](../images/dialogue1.jpg)
 
-The physical result was a catching visual map with 4 different color threads that people used for showing their selection. The cognitive outcomes were even better, the debates and dialogues generated with each participant made me open my mind with some factors I werent realizing.
+The physical result was a catching visual map with 4 different color threads that people used for showing their selection. The cognitive outcomes were even better, the debates and dialogues generated with each participant made me open my mind with some factors I were not realizing.
 
 ![](../images/dialogue1tablero.jpeg)
 
-The most selected determinats were: Collectivism, Connection with nature, Time, Awareness/Presence, Regenerative Education and mindful consumerism.
+The most selected determinants were: Collectivism, Connection with nature, Time, Awareness/Presence, Regenerative Education and mindful consumerism.
 
 ![](../images/dialogues1final.jpg)
 
