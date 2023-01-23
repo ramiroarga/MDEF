@@ -15,7 +15,7 @@ My focus of interest starts from the understanding of the habits and convenience
 ![](../images/lluvia.jpeg)
 
 
-Then my first intervention came, together with some colleagues that were also interested in food system and waste. We decided to collect our food and plastic waste from almost a week and then meet for a dinner and cook collectivelly from all our wastes.
+Then my first intervention came, together with some colleagues that were also interested in the food system and waste. We decided to collect our food and plastic waste from almost a week and then meet for dinner and cook collectively from all our wastes.
 
 ![](../images/zwfood1.JPG)
 ![](../images/zwfood.JPG)
@@ -40,7 +40,7 @@ We finally threw away the waste of our "food waste", the result of this was only
 
 What is needed for humanity to engage with regenerative behavior?
 
-I started to explore other paths related to human habits and convenience, so I began to connect with Antonio that was also a interested in this and wanted to understand his thoughts and perspective. So we started to understand the context around us, interests and tools to start thinking about a big change.
+I started to explore other paths related to human habits and convenience, so I began to connect with Antonio who was also interested in this and wanted to understand his thoughts and perspective. So we started to understand the context around us, interests and tools to start thinking about a big change.
 Both sides were connected with the purpose, Antonio´s side from mental health and the central nervous system as the focus of human behaviors and me from nature connection, food, water and sustainable practices. So we decided to align fields and work together. 
 
 In this collaboration I realized how important mental health was and the role it played in relation to human behaviors and bad habits, in terms of consumption and active -but unconscious- participation in the established systems. And we learned that we didnt want to talk about sustainability, but regeneration. As sustainability aims to maintain what already exists for use by future generations, while regenerative design goes a step further and actually seeks to leave ecosystems better than we found them.
