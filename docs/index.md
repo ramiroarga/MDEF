@@ -2,25 +2,12 @@
 
 
 
-Thanks for visiting! 🚀
+Welcome to my journey!🚀
 
-![](./images/3670390e-3ea0-c73d-eacd-8735d7ccb5c7.gif)
-
-
-
-![](./images/52c28cf5-3573-2983-3017-1b85bb2105b8.gif)
+![](./images/f00597d4-c155-ab0c-608c-1ee229ec9eec.gif)
 
 
 
-![](./images/6203847b-0327-722a-c1cc-ae01d17e227a.gif)
+Thanks for visiting! 
 
 
-
-![](./images/9414da87-20d3-fc75-264a-55e86ad200f1.gif)
-
-
-
-![](./images/bfb99ec4-0963-c935-22f6-c95336bbbec9.gif)
-
-
-![](./images/stg_danger.png)
