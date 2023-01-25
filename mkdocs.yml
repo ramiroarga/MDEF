@@ -11,22 +11,23 @@ repo_url: 'https://github.com/ramiroarga/MDEF'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Design Studio:
-      - Prototyping: Design-Studio/Prototyping.md
-      - Design.Dialogues.I: Design-Studio/Design Dialogues I.md
+  - Master Project:
+      - Initial ideas: Master Project/Initial ideas.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
-          - B&A.Zero: term1/03-Bio & Agri Zero.md
-          - Living with your own ideas: term1/04-Living with your own ideas.md
-          - Tech beyond the myth: term1/05-Tech beyond the myth.md
-          - Community Engagement: term1/06-Community Engagement.md
-          - Extended Intelligences: term1/07-Extended Intelligences.md
+          - Design Studio I: term1/02-Design Studio I.md
+          - AoWS: term1/03-Atlas of Weak Signals.md
+          - B&A.Zero: term1/04-Bio & Agri Zero.md
+          - Living with your own ideas: term1/05-Living with your own ideas.md
+          - Tech beyond the myth: term1/06-Tech beyond the myth.md
+          - Community Engagement: term1/07-Community Engagement.md
+          - Extended Intelligences: term1/08-Extended Intelligences.md
       - Term 2:
-          - Designing for the next billion seconds: term2/01-Designing for the next billion seconds.md
-          - Making sense: term2/02-Making sense.md
-          - Remixing Materials: term2/03-Remixing Materials.md
+          - Design Studio II: term2/01-Design Studio II.md
+          - Designing for the next billion seconds: term2/02-Designing for the next billion seconds.md
+          - Making sense: term2/03-Making sense.md
+          - Remixing Materials: term2/04-Remixing Materials.md
 
 
 
