@@ -13,4 +13,3 @@ I consider myself a proactive person, with good learning and leadership skills. 
 Please feel free to take a look to some of my main projects at **[my portfolio](https://www.behance.net/ramiarganafd03)**
 
 
-![](../images/6203847b-0327-722a-c1cc-ae01d1-unscreen.gif)
