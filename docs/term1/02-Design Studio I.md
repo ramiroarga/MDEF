@@ -84,7 +84,7 @@ Then my first intervention came, together with some colleagues that were also in
 ![](../images/zwfood.JPG)
 
 
-Reflection from Food Waste Dinner
+**Reflection from Food Waste Dinner**
 
 Before:
 What are my expectations about cooking with food waste?
@@ -100,8 +100,9 @@ We finally threw away the waste of our "food waste", the result of this was only
 
 *This moment of my journey was very important to understand my lifestyle in relation to waste, my food awareness and so I started to explore my lifestyle habits. I began to explore myself, get to know myself and open my knowledge through experiences, books and other resources. This was the point where I began to understand this educational process as something more than a professional path of multiple learning. I understood that I was changing as a person, it gave me the opportunity to be aware of who I am and who I want to be in the future. So I began to feel that it is not a parallel journey to my life, but that they are unified.*
 
+![](../images/758ae70a-8d0b-775f-b2b2-092ddbe4e7ce.gif
 
-What is needed for humanity to engage with regenerative behavior?
+**What is needed for humanity to engage with regenerative behavior?**
 
 I started to explore other paths related to human habits and convenience, so I began to connect with Antonio who was also interested in this and wanted to understand his thoughts and perspective. So we started to understand the context around us, interests and tools to start thinking about a big change.
 Both sides were connected with the purpose, Antonio´s side from mental health and the central nervous system as the focus of human behaviors and me from nature connection, food, water and sustainable practices. So we decided to align fields and work together. 
@@ -128,6 +129,6 @@ The most selected determinants were: Collectivism, Connection with nature, Time,
 
 ![](../images/dialogues1final.jpg)
 
-Some visual resume of our intervention: 
+Some resume video of our intervention: 
 
 <div style="padding:133.33% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/787541624?h=8a7ed1fcf1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Video.mov"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>

@@ -6,6 +6,9 @@ hide:
 # Bootcamp
 
 
+![](../images/RAMIRO%20-my%20fight%20poster%20a3-01.png)
+Final term 1 poster
+
 *My Fight*
 
 As a designer and citizen of the world, I am constantly mutating and acquiring new knowledge. My journey started last year where I experienced a social innovation process that changed my perspective of things. This was a food education project for children living in vulnerable socio-economic situations, to have access to tools for sustainable food production and connection with nature through playing resources. This experience took me through a collaborative design process where I learned what real teamwork means. In its transition, a team of around 40 people was generated, who contributed their expertise to the project to achieve a tangible and creative solution.
@@ -22,10 +25,6 @@ My initial poster:
 
 ![](../images/collaboration.jpg)
 
-
-My final term 1 poster:
-
-![](../images/RAMIRO%20-my%20fight%20poster%20a3-01.png)
 
 *Personal Development Plan*
 
