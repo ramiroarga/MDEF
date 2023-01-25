@@ -100,7 +100,7 @@ We finally threw away the waste of our "food waste", the result of this was only
 
 *This moment of my journey was very important to understand my lifestyle in relation to waste, my food awareness and so I started to explore my lifestyle habits. I began to explore myself, get to know myself and open my knowledge through experiences, books and other resources. This was the point where I began to understand this educational process as something more than a professional path of multiple learning. I understood that I was changing as a person, it gave me the opportunity to be aware of who I am and who I want to be in the future. So I began to feel that it is not a parallel journey to my life, but that they are unified.*
 
-![](../images/758ae70a-8d0b-775f-b2b2-092ddbe4e7ce.gif
+![](../images/758ae70a-8d0b-775f-b2b2-092ddbe4e7ce.gif)
 
 **What is needed for humanity to engage with regenerative behavior?**
 
