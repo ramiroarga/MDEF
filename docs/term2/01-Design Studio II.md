@@ -7,6 +7,9 @@ hide:
 
 **Regenerative Design**
 
+![](../images/stg_danger.png)
+
+
 The First MDEF Term was the start point of an exploration and transformation process. I learn to unlearn so many things, I started to understand who I am and who I want to be. I learned to connect my personal and professional life. My journey started questioning myself about human behavior in life, its relation with nature and other living species. I started the master without an specific idea or issue to "solve". I was fully motivated to flow in the process and learn new paradigms and perspectives, trying to start a new chapter in life. 
 
 My initial "fight" was collaborative innovation, I believe collective work is essential for living and creating the future world we want. After some weeks I realized that "collaboration" in relation with my master project was a way, a tool to achieve my objectives within my areas of interest.
@@ -21,3 +24,4 @@ As I go through the learning process, I realized that before being a change make
 
 So far this is my journey, I am very excited about what is to come. This second term I want to continue working and exploring in relation to regenerative design, and I also want to take the opportunity to work together with other colleagues on projects related to water, and combine them with other interests (technological, culinary, etc).
 
+![](../images/Captura%20de%20pantalla%20(28).png)
