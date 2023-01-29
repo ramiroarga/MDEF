@@ -19,7 +19,7 @@ I started to deeply explore convenience and human habits, because I wanted to un
 
 As I go through the learning process, I realized that before being a changemaker, it is very important to understand that change is first in oneself. We must be conscious and start transformation in our lives. So i started this process some months ago by being more critic while buying food (its origin, processes, packaging, etc) and waste generated, water consumption and waste and goods consumption in general terms. Actually i'm building my urban garden at home together with a worm composting.
 
-So far this is my journey, I am very excited about what is to come. This second term I want to continue working and exploring in relation to regenerative design, and I also want to take the opportunity to work together with other colleagues on projects related to water, and combine them with other interests (technological, culinary, etc).
+So far this is my journey, I am very excited about what is to come. This second term I want to continue working and exploring in relation to regenerative design, and I also want to take the opportunity to work together with other colleagues on projects related to water, and combine them with other interests (technological, culinary, etc.).
 
 
 ![](../images/Captura%20de%20pantalla%20(28).png)
