@@ -12,7 +12,7 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Master Project:
-      - Initial ideas: Master Project/Initial ideas.md
+      - Initial ideas: MasterProject/Initialideas.md
   - Reflections :
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
