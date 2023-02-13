@@ -25,3 +25,8 @@ For the class challenge, I imagined a filtering water system for domestic use, d
 
 The 3rd class, we understood how bidimensional fabrication works and its types. We went through laser systems, laser source and focus. Learned specially the lasercut, its functions, how it works and results of it. Also we understood materials that should and not be used in laser cutting.
 Best for cutting: cardboard, plywood, mdf, acrylic /polypropylene
+
+
+More about arduino and the task of turning on a led with a push button and understand the morse code (dash-dots) by recepting with a light sensor.
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/798407899?h=8e50bbaf11&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_9959.MOV"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
