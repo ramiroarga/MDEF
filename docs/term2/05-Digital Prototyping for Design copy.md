@@ -32,10 +32,7 @@ More about arduino and the task of turning on a led with a push button and under
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/798407899?h=8e50bbaf11&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_9959.MOV"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
-**MICROCHALLENGE 1**
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/ramiroarga/WATER">GitHub - ramiroarga/WATER: Water explorations for Microchallenges</a></h4><p>Water explorations for Microchallenges Hey!! Welcome to our WATER REPO! Here we will be updating our work for the Microchallenge´s... to do: add electronics steps and schematics add picture of final product under 'the system' add code and lasercut files to repo proof-read / final touches add this as README.md to the repo This repository documents a water testing tube designed and built by Josephine, Ramiro, Cagsun, and Korbi during the first MDEF 22/23 microchallenge.</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 Some 3d printing tasks...
 
