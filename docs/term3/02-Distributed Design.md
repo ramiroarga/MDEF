@@ -1,0 +1,12 @@
+---
+hide:
+    - toc
+---
+
+# Distributed Design
+
+
+
+
+
+
