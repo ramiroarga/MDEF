@@ -43,7 +43,7 @@ I wanted to print a volcano ashtray as an example for testing the printer and pa
 
 ![](../images/IMG_0113.jpg)
 ![](../images/IMG_0141.jpg)
-![](../files/scan%203d%20print.mp4)
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/817798362?h=00a09698c6&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="scan 3d print.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
 *Interfaces-Machines Interactions*
