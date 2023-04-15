@@ -11,7 +11,7 @@ in process...
 After a first trimester of a lot of introspective work, learning and new experiences, I decided to change my course regarding my master's project. Without leaving aside the process I had started, in relation to regenerative behavior and the redesign of human habits & conveniences, I decided to focus more on something that has always been my grounding cable and connects me with the person I want to be: water. I believe water is so important in our lives, that we must give more value to it. By this I mean to understand our consumption, be consciouss of the importance of having clean water at our disposal, and overall dont over waste it and take advantage of it in all its forms. 
 Water is not just a resource, it is part of our lives, our body is composed of 70% water, therefore it is necessary to take care of it and keep in mind its importance. I do not want to fall into another speech about the importance of water, but I feel that as a designer I have the opportunity to act through my knowledge and communicate the value of water in our lives and the planet. That is why I began to explore from permaculture natural methods of water filtration, with plants that through their roots generate a network of filtering known as "rhizofiltration". Im so engaged with this new stage of exploration and interested in understanding how greywater, rainwater or other forms of water we waste can be reintroduced to a new system where water is cleaned by natural filtrations to grow life, as plants or make it drinkable or have some useful end. 
 
-*1st Intervention*
+**Term Interventions**
 
 So, with some classmates also interested in water we made a first step on this big exploration. After brainstorming various ideas related to water and urban (domestic) horticulture, we landed on the idea of making a device that senses a few properties of water that are relevant for plants (temperature, electric conductivity, pH).
 
@@ -22,9 +22,9 @@ Link for more info...
 
 ![](../images/micchall1.jpg)
 
-*Final term Interventions*
 
-I decided to start prototyping different filtration stages for greywater, so I built a lipids trap, which would be the first stage of the water depuration system.
+
+Then, I decided to start prototyping different filtration stages for greywater, so I built a lipids trap, which would be the first stage of the water depuration system.
 The lipid trap consists of a recipient where water flows through in a certain direction passing through some “flow traps” that give direction to the greywater entering from one side to the other separating lipids (oils and fats) by density difference. I made it transparent in order to be able to see the flow and function of it. Was a interesting exercise to understand how it works and to build it effectively without leaks and support the water pressure and weight.
 The trap´s input side has a coarse cloth filter that avoids big compounds (solids) entering in the system that works as a first filter before the flow traps.
 
