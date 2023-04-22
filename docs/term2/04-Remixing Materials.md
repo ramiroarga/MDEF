@@ -24,7 +24,7 @@ We learned from some materials and made some tests to know how they behave and t
 
 Exploring Coffee, one of the materials chosen for this seminar.
 
-<a href="https://www.canva.com/design/DAFgej75Di4/view?utm_content=DAFgej75Di4&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">printing clay</a>
+<a href="https://www.canva.com/design/DAFgevHrjIE/view?utm_content=DAFgevHrjIE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Let’s talk Coffee</a>
 
 Mycelium exploration and playing!
 
