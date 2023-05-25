@@ -14,3 +14,12 @@ Water for me is so important, many of my main hobbies and interests are related 
 ![](../images/WATER%20POSTER%20D.D2.jpg)
 
 
+
+next step..
+
+24/4 Alternative presents to emergent futures - Understating your emerging profiles and roles. Guest Alumni: Roberto Broce Cely
+Goals: Learn from a guest alumni’s case study on how a 1PP alternative present design research investigation can become a hybrid professional role radically different from their previous professional practice. 
+Activity: Presentation and Q&A, extrapolating ideas, identifying milestones, turning points, roles and strategies undertaken towards your alternative present.
+Deliverable: Update your alternative present including a description of the roles you would like to have in it.
+Task: Update your bio section in your website with an adaptation of your alternative present and your roles in it. Continue developing your interventions. 
+tip: if  you can gain access to GPT3/4, try conversing with the chat to come to an understanding of your potential alternative bio – see what arises.
