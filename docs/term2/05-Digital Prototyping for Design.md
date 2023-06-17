@@ -11,7 +11,9 @@ Here I will be showing some notes, outcomes and reflections of the process of th
 
 During this task, we acquired knowledge on how to trigger a buzzer in order to generate sound. It proved to be a captivating exercise that further deepened our comprehension of the fundamental principles behind electronics and Arduino programming.
 
-My contribution involved designing the board schematics, carefully considering the various components and their harmonious collaboration in sound production. The setup was relatively simple, involving a ground connection and an additional pathway for output via pin 13 of the Adafruit Feather. To ensure success, I extensively explored online repositories to identify suitable board components and compatible code for my project Consequently, the device successfully rendered the Pirates of the Caribbean theme melody!
+This first class was a general reminder on arduino system, parallel systems and general terms of electronic prototyping. I feel motivated about this seminar, i like playing and learning electronics! We played on making some buzzers melodies to sound with some open-source codes!
+
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795018353?h=b476ddf82d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_9894.MOV"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 *Design Tools*	
 
@@ -29,22 +31,26 @@ For this activity, our assignment entailed developing a parametric model and sub
 
 *Inputs / Outpus*
 
+Our assigned task involved designing an Arduino-based system that incorporates an LDR sensor, a button, and an LED to generate a telegram through a combination of inputs and outputs. In this system, pressing the button activates the LED, and releasing it deactivates the LED. Additionally, the LDR sensor detects ambient light. While the initial suggestion was to collaborate in pairs using separate boards, for the sake of efficiency, I opted to design the entire system using a single board and complete the assignment independently.
 
+By leveraging the readings from the LDR sensor, the system aims to distinguish between brief and prolonged exposure to light, representing them as dot (.) or dash (-) signals in Morse code, respectively. To achieve this, I programmed variables corresponding to each letter in Morse code and managed to identify a few letters successfully. However, I encountered a challenge when attempting to concatenate the sensor data to identify all the letters accurately. Thus far, I have only been able to recognize letters E and T, which consist solely of a dot (.) and a dash (-), respectively. Here some videos of the experience.
 
-*Networking*
-
-The first class was a general reminder on arduino system, parallel systems and general terms of electronic prototyping. I feel motivated about this seminar, i like playing and learning electronics! We played on making some buzzers melodies to sound with some open-source codes!
-
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/795018353?h=b476ddf82d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_9894.MOV"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
-... Some more about arduino and the task of turning on a led with a push button and understand the morse code (dash-dots) by recepting with a light sensor.
 
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/798407899?h=8e50bbaf11&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="IMG_9959.MOV"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 
+*Networking*
+
+In this intriguing challenge, our objective entailed establishing a connection between our Feathers and a Wi-Fi network utilizing an MQTT broker and NodeRed. However, an unfortunate oversight on my part led to a lack of documentation during the class session. Moreover, due to the unique MQTT credentials and the utilization of the SmartCitizen broker, I faced challenges in replicating the exercise independently. Nevertheless, I can provide the code file and a selection of Arduino IDE screenshots to shed some light on the process.
+
+Essentially, we successfully set up a sophisticated communication network that facilitated seamless message exchange between devices. This system not only served as a valuable learning experience but also contributed significantly to enhancing the resilience and functionality of our second prototype—the HRV sculpture—which ingeniously harnessed the power of Wi-Fi connectivity.
+
+Although the exercise appeared deceptively simple, its impact proved to be far-reaching, reinforcing the robustness and efficacy of our project. Despite the limitations encountered, the experience garnered from this endeavor was undeniably invaluable. 
+
+
 *3d softwares*
 
-In the second class, we reviewed 2d and 3d softwares and made a MIRO board with all the softwares we know how to use. Then we learned about colors, pixels and vectors, PPI/DPI (72PPI normal for monitors and the internet) and image formats (GIF,JPEG,PNG).
+We reviewed 2d and 3d softwares and made a MIRO board with all the softwares we know how to use. Then we learned about colors, pixels and vectors, PPI/DPI (72PPI normal for monitors and the internet) and image formats (GIF,JPEG,PNG).
 
 Also learned about (TOPoPT) Topology optimization / generative design, mathematical method that optimizes material layout within a given design space. Generative design is not about designing, its about designing the system, we start from nothing, not the other way around.
 
@@ -86,3 +92,4 @@ For the CNC task, I 3d modelled a cabinet we had thinked for placing the differe
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/817801542?h=64f045d64e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="cnc on.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ![](../images/cnc2.jpeg)
+

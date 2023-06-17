@@ -40,4 +40,10 @@ by Citlali Hernández & Xavi Domínguez
 
 In this class we understood some basic concepts to prototype an interface and navigate the immensity of possibilities, tools, technologies and languages to design and implement interfaces. Also learnt about the creative process of a transdisciplinary artist as Citlali who showed many interesting works combining technologies and human nature. Then we discovered and practiced a bit of livecoding by using the HYDRA WEB to create different sound and images live scenarios of what our computer cam and micro sensed.
 
+*Blender interfaces*
 
+In this seminar, we were immersed in a comprehensive exploration of Blender, delving into its various applications and the transformative potential it offers through Python scripting. Victor, adeptly guided us in the art of "hacking" Blender, unraveling a realm of endless possibilities.
+
+Throughout the class, we embarked on an enthralling journey of modeling the visage of a mischievous monkey. This hands-on exercise allowed us to grasp the intricacies of Blender's functionalities as we experimented with an array of modifications and transformations.
+
+The experience proved to be both enlightening and captivating, equipping us with a deeper understanding of Blender's artistic prowess. Through our collective exploration, we unveiled a newfound appreciation for the boundless creativity that can be unlocked within this remarkable software.
