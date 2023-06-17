@@ -15,3 +15,6 @@ hide:
 
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/ramiroarga/Microchallenge-II" data-iframely-url="//iframely.net/BRCAv92"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
+**MICROCHALLENGE 3**
+
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/ramiroarga/Microchallenge-3" data-iframely-url="//iframely.net/SQEqB8e"></a></div></div><script async src="//iframely.net/embed.js"></script>
