@@ -7,6 +7,30 @@ hide:
 
 Here I will be showing some notes, outcomes and reflections of the process of the seminar!
 
+*Basic E&C*
+
+During this task, we acquired knowledge on how to trigger a buzzer in order to generate sound. It proved to be a captivating exercise that further deepened our comprehension of the fundamental principles behind electronics and Arduino programming.
+
+My contribution involved designing the board schematics, carefully considering the various components and their harmonious collaboration in sound production. The setup was relatively simple, involving a ground connection and an additional pathway for output via pin 13 of the Adafruit Feather. To ensure success, I extensively explored online repositories to identify suitable board components and compatible code for my project Consequently, the device successfully rendered the Pirates of the Caribbean theme melody!
+
+*Design Tools*	
+
+In the subsequent task, our objective was twofold: to establish the parameters for a croissant and to generate a 3D design employing algorithmic thinking applied to any object or concept. I hand-sketched a croissant with different sections that were traslated through 2 lines in the space, till the middle and then created the final form by simmetry.
+
+![](../images/croissant.png)
+
+*2D Fabrication*	
+
+For this activity, our assignment entailed developing a parametric model and subsequently fabricating it using the laser cut machine. I decided to use the resources and time to make some laser cuts for the making of a lipid-trap I needed to built for the master project. So I designed the trap (acrylic box) in order to be transparent and could see how the water flowed and lipids and solids were divided by densities. And I laser cutted it and then glue it, the results were so good! Also I didnt choose to make something else for the activity because I have already experience in design and prototypes by laser cutting, so i decided to make something with more sense for the project. Here some images!
+
+![](../images/laser.jpg)
+![](../images/lipidd%20built.JPG)
+
+
+*Inputs / Outpus*
+
+
+
 *Networking*
 
 The first class was a general reminder on arduino system, parallel systems and general terms of electronic prototyping. I feel motivated about this seminar, i like playing and learning electronics! We played on making some buzzers melodies to sound with some open-source codes!
