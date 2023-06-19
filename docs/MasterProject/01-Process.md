@@ -42,3 +42,25 @@ After this filtration stage, where plants take part in the process, we finally a
 Miro board for more access to my mind, notes and inspirations...
 
 <iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVPOijHeE=/?moveToViewport=-789,505,20408,10018&embedId=268344554546" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+
+In light of the growing global challenges surrounding water scarcity and environmental sustainability, it has become imperative to seek innovative solutions that promote the efficient use of water resources. One such solution is the implementation of greywater filtering systems, which enable the reuse of wastewater generated from both household and commercial activities.
+
+This project explores the practical and aesthetic possibilities of incorporating greywater reuse in urban environments. Initially, we had the privilege of showcasing an earlier version of the project at the "Solar Brunch event" hosted by SlowLab. This collaboration served as an initial step, inspiring us to further refine and enhance the prototype.
+
+Subsequently, as part of the "Digital Prototyping for Design" seminar within the IAAC's - FabLab Master in Design for Emergent Futures course, we undertook the third challenge to develop and design the following improvements for the project.
+
+The final intervention is intricately connected to the preceding prototype, but it extends beyond just being a prototype. In collaboration with the group comprising Cagsun and Korbi, we have envisioned and developed *"Flowing Futures". A collective that aims to explore, reimagine, and begin changing our relationship with water - and the life it sustains - in urban environments.* We challenge the view that water is a cheap resource to be disposed of and contaminated, and instead highlight how essential it is for all life on Earth. Through prototypes, events, and experiences, we seek to bring more life to our towns, cities, and habitats.
+
+The formation of the collective emerged following our participation in the Solar Brunch event organized by the SlowLab team. During the event, we showcased a prototype that, although not fully functional, aimed to convey a comprehensive understanding of the system we were proposing. Our intention was to highlight the values of collaboration and accessibility by utilizing affordable and widely available materials. Additionally, we emphasized the importance of providing comprehensive documentation to facilitate easy replication of the system. We experienced significant engagement from individuals who expressed a keen interest in our system, leading to dynamic conversations about greywater recuperation in a portable stand. Through our discussions, we explored various approaches and materials, including plants, minerals, and more. As we engaged with different people, new opportunities
+emerged, prompting us to consider alternative perspectives on the system. We contemplated broader applications, such as implementing greywater recuperation in larger buildings, integrating rainwater filtration, automated watering systems for urban gardens within the same structures, and delving into related areas like hydroponics. Determined to embrace a broad vision, we chose not to limit ourselves and instead remained receptive to additional possibilities and collaborative ventures.
+
+In conclusion, we made the collective decision to establish the Flowing Futures Collective as a means of fostering a community dedicated to valuing and exploring concepts related to transforming our relationship with water and its vital role in urban environments. Our intention is to embark on future projects that align with this mission. To support our endeavors, we have developed comprehensive communication strategies and media materials. Currently, we are actively engaged in promoting our identity and purpose through various social media platforms, sharing insights about our team and the objectives we aim to achieve.
+
+Here the result of the last prototype (it will be improved for the Wet Planet Party Event)
+![](../images/FFLAST.jpg)
+
+Here some additional information...
+
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://github.com/ramiroarga/Microchallenge-3" data-iframely-url="//iframely.net/SQEqB8e"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
